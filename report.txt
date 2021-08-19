@@ -1,0 +1,1354 @@
+Student1: 
+Heaps
+Stacks
+Heaps
+Binary Trees
+B-Trees
+B-Trees
+Heaps
+Stacks
+Heaps
+Stacks
+Heaps
+Queues
+Times visited: 12
+Student10: 
+Heaps
+Binary Trees
+Queues
+Stacks
+Queues
+B-Trees
+B-Trees
+B-Trees
+B-Trees
+B-Trees
+Stacks
+Heaps
+Heaps
+Times visited: 13
+Student100: 
+Heaps
+Heaps
+Binary Trees
+B-Trees
+B-Trees
+Binary Trees
+Stacks
+B-Trees
+Heaps
+B-Trees
+Heaps
+Heaps
+Heaps
+Queues
+Stacks
+Times visited: 15
+Student11: 
+Binary Trees
+B-Trees
+Heaps
+Queues
+Binary Trees
+Stacks
+Heaps
+Times visited: 7
+Student12: 
+Queues
+Stacks
+Heaps
+Binary Trees
+Heaps
+Queues
+Heaps
+Queues
+Stacks
+Times visited: 9
+Student13: 
+Binary Trees
+Heaps
+Stacks
+Binary Trees
+Queues
+B-Trees
+Heaps
+Heaps
+Queues
+B-Trees
+Binary Trees
+Heaps
+Times visited: 12
+Student14: 
+Binary Trees
+Queues
+Heaps
+Binary Trees
+Queues
+Queues
+Queues
+Binary Trees
+Stacks
+Queues
+Binary Trees
+Stacks
+B-Trees
+Queues
+Queues
+Queues
+Times visited: 16
+Student15: 
+Binary Trees
+Heaps
+Binary Trees
+Binary Trees
+B-Trees
+Queues
+Binary Trees
+Binary Trees
+B-Trees
+B-Trees
+Times visited: 10
+Student16: 
+Heaps
+Queues
+Stacks
+Binary Trees
+Queues
+B-Trees
+Queues
+Stacks
+Binary Trees
+Times visited: 9
+Student17: 
+Binary Trees
+Binary Trees
+Heaps
+Binary Trees
+Heaps
+Queues
+Heaps
+B-Trees
+Stacks
+B-Trees
+B-Trees
+Heaps
+Times visited: 12
+Student18: 
+B-Trees
+B-Trees
+Queues
+Queues
+Queues
+Stacks
+Queues
+Queues
+Stacks
+Queues
+Times visited: 10
+Student19: 
+Heaps
+Stacks
+Stacks
+Queues
+B-Trees
+Stacks
+Binary Trees
+B-Trees
+Binary Trees
+Binary Trees
+Heaps
+Stacks
+Heaps
+Times visited: 13
+Student2: 
+B-Trees
+Queues
+Queues
+Queues
+Heaps
+B-Trees
+B-Trees
+Queues
+Queues
+Stacks
+B-Trees
+Heaps
+Queues
+Heaps
+Heaps
+Binary Trees
+Times visited: 16
+Student20: 
+Stacks
+Binary Trees
+B-Trees
+Binary Trees
+Stacks
+Stacks
+Queues
+Stacks
+Times visited: 8
+Student21: 
+Heaps
+Binary Trees
+Heaps
+Heaps
+Binary Trees
+Stacks
+B-Trees
+B-Trees
+B-Trees
+Queues
+Binary Trees
+Times visited: 11
+Student22: 
+Stacks
+Binary Trees
+Heaps
+Binary Trees
+Queues
+Binary Trees
+Heaps
+Stacks
+Times visited: 8
+Student23: 
+Heaps
+Heaps
+Heaps
+Binary Trees
+Stacks
+Queues
+Queues
+Heaps
+Heaps
+Binary Trees
+Queues
+Heaps
+Heaps
+Heaps
+B-Trees
+Stacks
+Stacks
+Times visited: 17
+Student24: 
+Binary Trees
+Heaps
+Binary Trees
+B-Trees
+B-Trees
+Queues
+Binary Trees
+B-Trees
+Queues
+Stacks
+Stacks
+Binary Trees
+Heaps
+Stacks
+Times visited: 14
+Student25: 
+Queues
+Queues
+Queues
+Heaps
+Binary Trees
+Queues
+Stacks
+B-Trees
+Queues
+B-Trees
+Stacks
+Heaps
+Queues
+Heaps
+Queues
+B-Trees
+Queues
+B-Trees
+Binary Trees
+Times visited: 19
+Student26: 
+Stacks
+Stacks
+Queues
+Queues
+Stacks
+Times visited: 5
+Student27: 
+Binary Trees
+B-Trees
+Queues
+Binary Trees
+Queues
+Binary Trees
+Queues
+Heaps
+B-Trees
+Stacks
+B-Trees
+Queues
+Heaps
+Binary Trees
+Times visited: 14
+Student28: 
+Stacks
+Binary Trees
+Binary Trees
+Queues
+Queues
+Stacks
+B-Trees
+Queues
+Binary Trees
+Times visited: 9
+Student29: 
+Binary Trees
+Heaps
+Binary Trees
+Heaps
+Heaps
+Binary Trees
+Queues
+Heaps
+Heaps
+B-Trees
+B-Trees
+B-Trees
+Heaps
+Times visited: 13
+Student3: 
+B-Trees
+Queues
+B-Trees
+Queues
+Queues
+Binary Trees
+Heaps
+Heaps
+B-Trees
+Binary Trees
+Stacks
+Queues
+Times visited: 12
+Student30: 
+Stacks
+Queues
+Heaps
+Queues
+Stacks
+B-Trees
+Queues
+Binary Trees
+Heaps
+B-Trees
+B-Trees
+Stacks
+Stacks
+Queues
+Queues
+B-Trees
+Times visited: 16
+Student31: 
+Heaps
+Binary Trees
+Queues
+Heaps
+B-Trees
+Queues
+Binary Trees
+Queues
+Stacks
+Stacks
+Stacks
+Times visited: 11
+Student32: 
+Queues
+Binary Trees
+Heaps
+Binary Trees
+Queues
+Stacks
+Stacks
+Heaps
+Stacks
+Queues
+Queues
+Stacks
+Binary Trees
+B-Trees
+Stacks
+Times visited: 15
+Student33: 
+B-Trees
+Heaps
+Binary Trees
+Binary Trees
+Stacks
+Heaps
+Binary Trees
+Heaps
+B-Trees
+Stacks
+Heaps
+Stacks
+B-Trees
+Stacks
+Queues
+Binary Trees
+B-Trees
+B-Trees
+Stacks
+Stacks
+Heaps
+Times visited: 21
+Student34: 
+B-Trees
+Queues
+Stacks
+Stacks
+B-Trees
+Binary Trees
+B-Trees
+Binary Trees
+Binary Trees
+Stacks
+Stacks
+Binary Trees
+Queues
+Heaps
+Stacks
+Heaps
+Times visited: 16
+Student35: 
+Heaps
+Queues
+Stacks
+B-Trees
+B-Trees
+Stacks
+Queues
+Heaps
+B-Trees
+Times visited: 9
+Student36: 
+Heaps
+Queues
+B-Trees
+Heaps
+B-Trees
+B-Trees
+Stacks
+Times visited: 7
+Student37: 
+Queues
+Queues
+Binary Trees
+Binary Trees
+Queues
+B-Trees
+Heaps
+Queues
+Times visited: 8
+Student38: 
+Binary Trees
+Queues
+Queues
+Binary Trees
+Stacks
+Binary Trees
+B-Trees
+Heaps
+Stacks
+Heaps
+Queues
+Queues
+Queues
+Binary Trees
+Times visited: 14
+Student39: 
+Stacks
+B-Trees
+Queues
+Queues
+Queues
+B-Trees
+Stacks
+Queues
+B-Trees
+Queues
+Heaps
+Binary Trees
+Times visited: 12
+Student4: 
+B-Trees
+Stacks
+B-Trees
+Heaps
+Queues
+Heaps
+Heaps
+Binary Trees
+B-Trees
+B-Trees
+Heaps
+Queues
+Times visited: 12
+Student40: 
+Stacks
+Stacks
+Queues
+Binary Trees
+Stacks
+B-Trees
+Binary Trees
+Stacks
+Times visited: 8
+Student41: 
+Queues
+Queues
+B-Trees
+Queues
+Binary Trees
+Queues
+Binary Trees
+B-Trees
+B-Trees
+Heaps
+Times visited: 10
+Student42: 
+B-Trees
+Queues
+Binary Trees
+Binary Trees
+Binary Trees
+Binary Trees
+Stacks
+B-Trees
+Binary Trees
+Stacks
+Heaps
+Stacks
+Heaps
+Binary Trees
+Heaps
+Binary Trees
+Stacks
+Times visited: 17
+Student43: 
+Heaps
+Heaps
+Binary Trees
+Binary Trees
+Stacks
+B-Trees
+Binary Trees
+Stacks
+Queues
+Heaps
+B-Trees
+Stacks
+Times visited: 12
+Student44: 
+B-Trees
+Binary Trees
+Queues
+B-Trees
+Binary Trees
+Queues
+Queues
+B-Trees
+Heaps
+Binary Trees
+Heaps
+Times visited: 11
+Student45: 
+Binary Trees
+Binary Trees
+Heaps
+Stacks
+Queues
+Queues
+B-Trees
+B-Trees
+B-Trees
+Queues
+Times visited: 10
+Student46: 
+Stacks
+Binary Trees
+Binary Trees
+Binary Trees
+Queues
+Binary Trees
+Queues
+B-Trees
+B-Trees
+B-Trees
+Stacks
+Stacks
+Times visited: 12
+Student47: 
+Heaps
+Stacks
+Queues
+Heaps
+Stacks
+B-Trees
+Binary Trees
+Binary Trees
+B-Trees
+B-Trees
+B-Trees
+B-Trees
+Stacks
+Queues
+Stacks
+Times visited: 15
+Student48: 
+Binary Trees
+Queues
+B-Trees
+Stacks
+Heaps
+Queues
+Binary Trees
+B-Trees
+Stacks
+Times visited: 9
+Student49: 
+B-Trees
+Queues
+Heaps
+B-Trees
+Binary Trees
+Queues
+B-Trees
+Times visited: 7
+Student5: 
+B-Trees
+Queues
+Binary Trees
+Queues
+Queues
+B-Trees
+Binary Trees
+Stacks
+Stacks
+Binary Trees
+B-Trees
+Binary Trees
+B-Trees
+B-Trees
+Times visited: 14
+Student50: 
+Stacks
+Queues
+Binary Trees
+Stacks
+Heaps
+Binary Trees
+Stacks
+Binary Trees
+Stacks
+B-Trees
+B-Trees
+Queues
+Binary Trees
+Queues
+Heaps
+Queues
+Times visited: 16
+Student51: 
+Queues
+Stacks
+Queues
+Queues
+B-Trees
+Binary Trees
+B-Trees
+Queues
+Queues
+B-Trees
+B-Trees
+Times visited: 11
+Student52: 
+B-Trees
+B-Trees
+Heaps
+Binary Trees
+Stacks
+Times visited: 5
+Student53: 
+Binary Trees
+Queues
+B-Trees
+Queues
+Stacks
+Stacks
+B-Trees
+B-Trees
+Binary Trees
+Binary Trees
+Heaps
+Queues
+Stacks
+Heaps
+Heaps
+Binary Trees
+B-Trees
+Binary Trees
+Binary Trees
+B-Trees
+Stacks
+Times visited: 21
+Student54: 
+Heaps
+Stacks
+B-Trees
+Stacks
+Heaps
+Stacks
+Times visited: 6
+Student55: 
+B-Trees
+Heaps
+Queues
+Binary Trees
+Heaps
+Stacks
+Heaps
+Stacks
+Stacks
+Times visited: 9
+Student56: 
+Queues
+Heaps
+Stacks
+Stacks
+Binary Trees
+Times visited: 5
+Student57: 
+Binary Trees
+B-Trees
+Heaps
+B-Trees
+Stacks
+Stacks
+B-Trees
+Queues
+Queues
+Queues
+Times visited: 10
+Student58: 
+Stacks
+Binary Trees
+B-Trees
+B-Trees
+Binary Trees
+B-Trees
+Binary Trees
+Heaps
+Stacks
+Heaps
+Times visited: 10
+Student59: 
+Queues
+Heaps
+Queues
+Binary Trees
+Queues
+B-Trees
+B-Trees
+Queues
+Stacks
+Binary Trees
+B-Trees
+Queues
+B-Trees
+Heaps
+Stacks
+Queues
+Heaps
+Stacks
+B-Trees
+Heaps
+B-Trees
+Stacks
+Binary Trees
+Stacks
+Times visited: 24
+Student6: 
+Queues
+Stacks
+Heaps
+Heaps
+Queues
+Queues
+Heaps
+Stacks
+B-Trees
+Heaps
+Queues
+B-Trees
+Times visited: 12
+Student60: 
+Heaps
+Stacks
+Binary Trees
+Binary Trees
+Heaps
+B-Trees
+Stacks
+Heaps
+Queues
+B-Trees
+Heaps
+B-Trees
+B-Trees
+Times visited: 13
+Student61: 
+Heaps
+B-Trees
+B-Trees
+Stacks
+Stacks
+B-Trees
+B-Trees
+Heaps
+Binary Trees
+Binary Trees
+B-Trees
+Binary Trees
+Times visited: 12
+Student62: 
+Stacks
+Binary Trees
+Stacks
+Stacks
+B-Trees
+Binary Trees
+Heaps
+Queues
+Queues
+B-Trees
+Stacks
+Queues
+Times visited: 12
+Student63: 
+Binary Trees
+Stacks
+Queues
+Queues
+Stacks
+B-Trees
+B-Trees
+Queues
+Heaps
+Queues
+B-Trees
+Heaps
+Heaps
+B-Trees
+Times visited: 14
+Student64: 
+Queues
+Binary Trees
+Heaps
+B-Trees
+Stacks
+Queues
+Queues
+Heaps
+Heaps
+Stacks
+Times visited: 10
+Student65: 
+Heaps
+B-Trees
+Binary Trees
+Heaps
+B-Trees
+Queues
+Queues
+Queues
+B-Trees
+Heaps
+Heaps
+Binary Trees
+Queues
+Binary Trees
+Times visited: 14
+Student66: 
+Binary Trees
+Queues
+Queues
+Heaps
+Queues
+Heaps
+B-Trees
+Binary Trees
+Queues
+Stacks
+Times visited: 10
+Student67: 
+Stacks
+B-Trees
+Stacks
+Heaps
+B-Trees
+B-Trees
+B-Trees
+Times visited: 7
+Student68: 
+Heaps
+Binary Trees
+Stacks
+B-Trees
+Queues
+Stacks
+Binary Trees
+Binary Trees
+Binary Trees
+Heaps
+B-Trees
+Times visited: 11
+Student69: 
+Queues
+Binary Trees
+Stacks
+Queues
+B-Trees
+B-Trees
+B-Trees
+Binary Trees
+Queues
+Times visited: 9
+Student7: 
+Heaps
+Binary Trees
+B-Trees
+Stacks
+Binary Trees
+Binary Trees
+Stacks
+Stacks
+B-Trees
+B-Trees
+Stacks
+Times visited: 11
+Student70: 
+Stacks
+Heaps
+B-Trees
+B-Trees
+B-Trees
+Heaps
+Stacks
+Queues
+Heaps
+Times visited: 9
+Student71: 
+B-Trees
+B-Trees
+Queues
+Binary Trees
+B-Trees
+B-Trees
+Binary Trees
+Binary Trees
+Binary Trees
+Heaps
+B-Trees
+Times visited: 11
+Student72: 
+Binary Trees
+Queues
+Queues
+Binary Trees
+B-Trees
+B-Trees
+Heaps
+Binary Trees
+Queues
+B-Trees
+Heaps
+Queues
+B-Trees
+Binary Trees
+Times visited: 14
+Student73: 
+Binary Trees
+Stacks
+Stacks
+Queues
+Times visited: 4
+Student74: 
+B-Trees
+Stacks
+Binary Trees
+Heaps
+Stacks
+Heaps
+Binary Trees
+Heaps
+Binary Trees
+B-Trees
+Queues
+B-Trees
+Stacks
+Times visited: 13
+Student75: 
+Heaps
+Queues
+Heaps
+Heaps
+Stacks
+B-Trees
+Heaps
+B-Trees
+B-Trees
+B-Trees
+Times visited: 10
+Student76: 
+Binary Trees
+Binary Trees
+Stacks
+B-Trees
+Heaps
+Heaps
+Heaps
+Queues
+B-Trees
+Queues
+B-Trees
+Stacks
+Heaps
+Times visited: 13
+Student77: 
+Stacks
+Binary Trees
+Binary Trees
+Binary Trees
+Heaps
+Queues
+B-Trees
+Stacks
+Heaps
+Stacks
+B-Trees
+Queues
+Times visited: 12
+Student78: 
+Stacks
+Binary Trees
+Queues
+Stacks
+Stacks
+Heaps
+Stacks
+Stacks
+Times visited: 8
+Student79: 
+B-Trees
+B-Trees
+Stacks
+Stacks
+Binary Trees
+Queues
+Heaps
+Stacks
+B-Trees
+B-Trees
+Binary Trees
+B-Trees
+Queues
+Times visited: 13
+Student8: 
+Stacks
+B-Trees
+Stacks
+Heaps
+Heaps
+B-Trees
+Heaps
+Stacks
+Binary Trees
+Times visited: 9
+Student80: 
+Binary Trees
+B-Trees
+Binary Trees
+Queues
+Heaps
+Binary Trees
+Heaps
+Stacks
+Heaps
+Binary Trees
+Stacks
+Binary Trees
+Heaps
+Binary Trees
+Heaps
+Stacks
+Times visited: 16
+Student81: 
+Heaps
+Stacks
+B-Trees
+B-Trees
+B-Trees
+Queues
+Stacks
+Queues
+B-Trees
+Stacks
+Stacks
+Stacks
+Times visited: 12
+Student82: 
+Stacks
+Stacks
+B-Trees
+Queues
+Heaps
+Binary Trees
+Stacks
+Stacks
+Stacks
+Heaps
+Times visited: 10
+Student83: 
+B-Trees
+Queues
+B-Trees
+Heaps
+B-Trees
+Queues
+B-Trees
+Queues
+Heaps
+Times visited: 9
+Student84: 
+Queues
+Binary Trees
+Binary Trees
+Heaps
+Stacks
+Stacks
+Heaps
+Queues
+Times visited: 8
+Student85: 
+Queues
+Stacks
+Queues
+Queues
+Binary Trees
+Queues
+Queues
+B-Trees
+Times visited: 8
+Student86: 
+Binary Trees
+Binary Trees
+B-Trees
+B-Trees
+Stacks
+Binary Trees
+Binary Trees
+B-Trees
+Stacks
+Times visited: 9
+Student87: 
+Binary Trees
+Stacks
+B-Trees
+Queues
+Binary Trees
+Binary Trees
+Heaps
+Queues
+Stacks
+B-Trees
+Stacks
+Stacks
+Heaps
+B-Trees
+Heaps
+Queues
+Stacks
+Stacks
+Queues
+Times visited: 19
+Student88: 
+Queues
+Queues
+B-Trees
+Binary Trees
+Binary Trees
+Binary Trees
+Heaps
+Queues
+Queues
+B-Trees
+Heaps
+Times visited: 11
+Student89: 
+Queues
+Stacks
+Stacks
+Stacks
+Binary Trees
+Stacks
+Stacks
+Binary Trees
+B-Trees
+Stacks
+B-Trees
+Heaps
+B-Trees
+Binary Trees
+Times visited: 14
+Student9: 
+Heaps
+Heaps
+Stacks
+B-Trees
+Binary Trees
+Binary Trees
+Heaps
+Binary Trees
+Stacks
+Stacks
+Binary Trees
+Heaps
+Heaps
+Heaps
+Stacks
+Times visited: 15
+Student90: 
+Binary Trees
+Queues
+Binary Trees
+Stacks
+Queues
+Binary Trees
+B-Trees
+Stacks
+Heaps
+B-Trees
+Queues
+Binary Trees
+Stacks
+Binary Trees
+Times visited: 14
+Student91: 
+Binary Trees
+Stacks
+B-Trees
+Queues
+Queues
+Binary Trees
+Queues
+Heaps
+Binary Trees
+Stacks
+B-Trees
+Queues
+Times visited: 12
+Student92: 
+Binary Trees
+Heaps
+Heaps
+Binary Trees
+Binary Trees
+B-Trees
+B-Trees
+Heaps
+Heaps
+Queues
+Binary Trees
+Times visited: 11
+Student93: 
+Binary Trees
+Stacks
+Binary Trees
+B-Trees
+Stacks
+Heaps
+Queues
+Heaps
+Stacks
+B-Trees
+Times visited: 10
+Student94: 
+Binary Trees
+Heaps
+Stacks
+Queues
+Stacks
+Binary Trees
+Stacks
+Stacks
+Queues
+Times visited: 9
+Student95: 
+Queues
+B-Trees
+Heaps
+Heaps
+Binary Trees
+Queues
+B-Trees
+Stacks
+Binary Trees
+Stacks
+Heaps
+Times visited: 11
+Student96: 
+Stacks
+B-Trees
+Queues
+Stacks
+B-Trees
+Binary Trees
+Heaps
+B-Trees
+Stacks
+Stacks
+Stacks
+Binary Trees
+Stacks
+Binary Trees
+Stacks
+B-Trees
+Binary Trees
+B-Trees
+Heaps
+Times visited: 19
+Student97: 
+Heaps
+Stacks
+B-Trees
+Heaps
+Heaps
+Binary Trees
+Stacks
+Times visited: 7
+Student98: 
+Stacks
+Heaps
+Queues
+Heaps
+Stacks
+Stacks
+B-Trees
+Queues
+Binary Trees
+Binary Trees
+Queues
+Heaps
+Stacks
+Queues
+Times visited: 14
